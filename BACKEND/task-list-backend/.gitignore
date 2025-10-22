@@ -1,0 +1,9 @@
+# macOS system files
+.DS_Store
+
+# Node modules
+node_modules/
+
+# Firebase logs
+firebase-debug.log
+firebase-debug.*.log
